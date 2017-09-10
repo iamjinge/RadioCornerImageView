@@ -1,8 +1,8 @@
-#RadioCornerImageView
+# RadioCornerImageView
 
 ImageView in shape of circle, square, rectangle, rounded rectangle
 
-![](https://github.com/iamjinge/RadioCornerImageView/blob/master/demo.png | width=100)
+![](https://github.com/iamjinge/RadioCornerImageView/blob/master/demo.png)
 
 | type | attrs |
 |----|----|
