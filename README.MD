@@ -1,4 +1,4 @@
-# RadioCornerImageView
+# RadioRoundedImageView
 
 ImageView in shape of circle, square, rectangle, rounded rectangle
 
